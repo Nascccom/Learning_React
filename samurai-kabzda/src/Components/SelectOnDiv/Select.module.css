@@ -1,0 +1,22 @@
+.select  {
+    display: inline-block;
+    min-width: 100px;
+
+    border: 1px solid black;
+    cursor: pointer;
+    text-align: center;
+    padding: 5px
+}
+
+.items {
+    text-align: left;
+    padding: 5px
+}
+.item.selected {
+    background-color: cornflowerblue;
+}
+
+.item.hovered {
+    background-color: blue;
+    cursor: pointer;
+}
