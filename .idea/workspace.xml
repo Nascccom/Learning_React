@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="11a8647f-f237-4f87-98e0-c65c8a650bbd" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2H7SsgeRtKxZg4W8kC9nqWNizkC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Projects/project-kabzda-kak-prosto/samurai-kabzda/src/Components/SelectOnDiv",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "ts.external.directory.path": "D:\\Projects\\project-kabzda-kak-prosto\\samurai-kabzda\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\project-kabzda-kak-prosto\samurai-kabzda\src\Components\SelectOnDiv" />
+      <recent name="D:\incubator-project\002-project-kabzda\samurai-kabzda\src\Components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\incubator-project\002-project-kabzda\samurai-kabzda\src\Components\Select" />
+      <recent name="D:\incubator-project\002-project-kabzda\samurai-kabzda\src\Components\UncontrolledOnOff" />
+      <recent name="D:\incubator-project\002-project-kabzda\samurai-kabzda\src\Components\Raiting" />
+      <recent name="D:\incubator-project\002-project-kabzda\samurai-kabzda\src\Components\Acordion" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/samurai-kabzda/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="storybook" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/samurai-kabzda/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="storybook" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.storybook" />
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11a8647f-f237-4f87-98e0-c65c8a650bbd" name="Changes" comment="" />
+      <created>1667634836377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667634836377</updated>
+      <workItem from="1667634838204" duration="26000" />
+      <workItem from="1667635754267" duration="2020000" />
+      <workItem from="1669140497917" duration="19520000" />
+      <workItem from="1669726565730" duration="3234000" />
+      <workItem from="1670506860196" duration="11532000" />
+      <workItem from="1671391695165" duration="45563000" />
+      <workItem from="1672646878892" duration="11327000" />
+      <workItem from="1672751109284" duration="5846000" />
+      <workItem from="1673437859511" duration="10847000" />
+      <workItem from="1673528279861" duration="2505000" />
+      <workItem from="1673622734936" duration="1789000" />
+      <workItem from="1674124176738" duration="24014000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/samurai-kabzda/src/Components/ControlledAcordion/ControlledAcordion.tsx</url>
+          <line>49</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

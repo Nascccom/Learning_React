@@ -1,0 +1,25 @@
+.App {
+    text-align: center;
+}
+
+.App-logo {
+    height: 40vmin;
+    pointer-events: none;
+
+}
+
+/*.switch {*/
+/*    display: grid;*/
+/*    grid-template-columns: 1fr 1fr;*/
+/*    width: 100px;*/
+/*    align-items: center;*/
+/*    justify-items: center;*/
+/*}*/
+
+/*.circle {*/
+/*    height: 20px;*/
+/*    width: 20px;*/
+/*    background-color: greenyellow;*/
+/*    border-radius: 50%;*/
+/*    display: inline-block;*/
+/*}*/
