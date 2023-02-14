@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11a8647f-f237-4f87-98e0-c65c8a650bbd" name="Changes" comment="" />
+    <list default="true" id="11a8647f-f237-4f87-98e0-c65c8a650bbd" name="Changes" comment="Add idea into .gitignore">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/001-project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samurai-kabzda/src/stories/UseCallback.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samurai-kabzda/src/stories/UseMemo.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/samurai-kabzda/src/stories/UseMemo.stories.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,10 +20,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript File" />
-        <option value="TypeScript JSX File" />
         <option value="CSS File" />
+        <option value="TypeScript JSX File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -26,26 +35,29 @@
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2H7SsgeRtKxZg4W8kC9nqWNizkC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Projects/project-kabzda-kak-prosto/samurai-kabzda/src/Components/SelectOnDiv",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "yarn",
-    "ts.external.directory.path": "D:\\Projects\\project-kabzda-kak-prosto\\samurai-kabzda\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Projects/project-kabzda-kak-prosto&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\Projects\\project-kabzda-kak-prosto\\samurai-kabzda\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Projects\project-kabzda-kak-prosto\samurai-kabzda\src\Components\SelectOnDiv" />
@@ -105,12 +117,69 @@
       <workItem from="1673437859511" duration="10847000" />
       <workItem from="1673528279861" duration="2505000" />
       <workItem from="1673622734936" duration="1789000" />
-      <workItem from="1674124176738" duration="24014000" />
+      <workItem from="1674124176738" duration="25411000" />
+      <workItem from="1676373965516" duration="5101000" />
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <created>1674216856824</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674216856824</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Learning controlled and uncontrolled components, conditional rendering">
+      <created>1674217126950</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674217126950</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Studying controlled and uncontrolled input">
+      <created>1674217529139</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674217529139</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Parsing the benefits - React.memo and useMemo">
+      <created>1674217657631</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674217657631</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add idea into .gitignore">
+      <created>1676374083716</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676374083716</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <MESSAGE value="Learning controlled and uncontrolled components, conditional rendering" />
+    <MESSAGE value="I tried to create customSelect" />
+    <MESSAGE value="Studying controlled and uncontrolled input" />
+    <MESSAGE value="Parsing the benefits - React.memo and useMemo" />
+    <MESSAGE value="Add idea into .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add idea into .gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
