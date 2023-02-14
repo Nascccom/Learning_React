@@ -57,7 +57,7 @@ const UsersSecret = (props: { users: Array<string> }) => {
 
 const Users = React.memo(UsersSecret)
 
-export const HelpsForReactMemoExample = () => {
+export const HelpsToReactMemoExample = () => {
     console.log('Example1')
     const [users, setUsers] = useState(['Nastya', 'Viktor', 'Igor', 'Katya'])
     const [counter, setCounter] = useState(0)

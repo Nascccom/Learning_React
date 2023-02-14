@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11a8647f-f237-4f87-98e0-c65c8a650bbd" name="Changes" comment="Add idea into .gitignore">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/001-project.iml" afterDir="false" />
+    <list default="true" id="11a8647f-f237-4f87-98e0-c65c8a650bbd" name="Changes" comment=".gitignore">
       <change afterPath="$PROJECT_DIR$/samurai-kabzda/src/stories/UseCallback.stories.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/samurai-kabzda/src/stories/UseMemo.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/samurai-kabzda/src/stories/UseMemo.stories.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,7 +115,7 @@
       <workItem from="1673528279861" duration="2505000" />
       <workItem from="1673622734936" duration="1789000" />
       <workItem from="1674124176738" duration="25411000" />
-      <workItem from="1676373965516" duration="5101000" />
+      <workItem from="1676373965516" duration="5432000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1674216856824</created>
@@ -155,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676374083716</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary=".gitignore">
+      <created>1676384129266</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676384129266</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,7 +183,8 @@
     <MESSAGE value="Studying controlled and uncontrolled input" />
     <MESSAGE value="Parsing the benefits - React.memo and useMemo" />
     <MESSAGE value="Add idea into .gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add idea into .gitignore" />
+    <MESSAGE value=".gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value=".gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
